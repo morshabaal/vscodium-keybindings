@@ -1,0 +1,76 @@
+[
+    {
+        "key": "ctrl+alt+2",
+        "command": "type",
+        "args": {
+            "text": "@"
+        }
+    },
+    {
+        "key": "ctrl+alt+3",
+        "command": "type",
+        "args": {
+            "text": "£"
+        }
+    },
+    {
+        "key": "ctrl+alt+4",
+        "command": "type",
+        "args": {
+            "text": "$"
+        }
+    },
+    {
+        "key": "ctrl+alt+5",
+        "command": "type",
+        "args": {
+            "text": "€"
+        }
+    },
+    {
+        "key": "ctrl+alt+7",
+        "command": "type",
+        "args": {
+            "text": "{"
+        }
+    },
+    {
+        "key": "ctrl+alt+8",
+        "command": "type",
+        "args": {
+            "text": "["
+        }
+    },
+    {
+        "key": "ctrl+alt+9",
+        "command": "type",
+        "args": {
+            "text": "]"
+        }
+    },
+    {
+        "key": "ctrl+alt+0",
+        "command": "type",
+        "args": {
+            "text": "}"
+        }
+    },
+    {
+        "key": "ctrl+alt+[IntlBackslash]",
+        "command": "type",
+        "args": {
+            "text": "|"
+        }
+    },
+    {
+        "key": "ctrl+alt+[Minus]",
+        "command": "type",
+        "args": {
+            "text": "\\"
+        }
+    },
+    {
+        "key": "ctrl+insert",
+        "command": "editor.action.fontZoomReset"
+    }
+]
